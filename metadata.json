@@ -1,0 +1,5 @@
+{
+  "name": "DebtTrack Pro",
+  "description": "A comprehensive customer debt collection tracker with automated Excel UPSERT synchronization, automated status aging based on grace periods, and AI-powered collection risk analysis using Gemini.",
+  "requestFramePermissions": []
+}
